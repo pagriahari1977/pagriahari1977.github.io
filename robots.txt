@@ -1,0 +1,2 @@
+User-Agent: *
+Sitemap: https://pagriahari1977.github.io/sitemap.xml
